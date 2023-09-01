@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58861564595",
+    "project_id": "man-city-6cdb9",
+    "storage_bucket": "man-city-6cdb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58861564595:android:e3de9d5a2653e4a97376c6",
+        "android_client_info": {
+          "package_name": "com.example.mancityfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58861564595-9k2fmm2bphrnc6a1c8eiqiog5bqslnq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzrXUREcvDDo98njO9NLcv09Epo7swUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58861564595-9k2fmm2bphrnc6a1c8eiqiog5bqslnq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
